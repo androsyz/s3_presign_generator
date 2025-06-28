@@ -24,3 +24,6 @@ s3_presign_generator-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Env files
+*.env
